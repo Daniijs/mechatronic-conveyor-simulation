@@ -2,6 +2,8 @@
 
 Object-oriented real-time electromechanical simulation and closed-loop PID speed control of an industrial conveyor belt driven by a Variable Frequency Drive (VFD), electric motor, and reduction gearbox, built in **MATLAB** with an interactive `uifigure` control panel and live pulley/motor animation (`hgtransform`).
 
+![MATLAB AppRodillos real-time simulation interface](media/app_preview.png)
+
 ---
 
 ## System Architecture
